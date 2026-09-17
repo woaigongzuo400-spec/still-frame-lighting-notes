@@ -1,2 +1,1 @@
-# still-frame-lighting-notes
-Notes on comparing lighting on a locked still
+# Still-frame lighting notes\n\nI keep a small set of stills when a scene already has the composition I want and only the light is wrong.\n\n## What I compare\n\n1. The original capture, no grade.\n2. The same frame with a harder key from camera left.\n3. The same frame with a cooler fill and less contrast on the edges.\n\nIf I rebuild the set, the props drift and the comparison is useless.\n\nI used [image to image ai](https://imgtoimg-ai.com/) once to restyle lighting on a locked still so I could write these notes without reshooting.\n\n## Takeaway\n\nCompare light, not layout.
